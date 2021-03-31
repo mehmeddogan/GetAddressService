@@ -1,0 +1,9 @@
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\bin\Debug\GetAddressService.exe.config
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\bin\Debug\GetAddressService.exe
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\bin\Debug\GetAddressService.pdb
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\obj\Debug\GetAddressService.csprojAssemblyReference.cache
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\obj\Debug\GetAddressService.ProjectInstaller.resources
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\obj\Debug\GetAddressService.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\obj\Debug\GetAddressService.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\obj\Debug\GetAddressService.exe
+C:\Users\Master\source\repos\GetAddressService\GetAddressService\obj\Debug\GetAddressService.pdb
